@@ -1,1 +1,12 @@
-theme: jekyll-theme-minimal
+title: Seventh Gen
+author: dillinsanity
+email: dgeorge7@asu.edu
+description: > # this means to ignore newlines until "baseurl:"
+  This is where the nativeness meets the Earth
+# social links
+twitter_username: Not Applicable
+github_username: dillinsanity
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: Minima
